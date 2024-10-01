@@ -1,0 +1,6 @@
+//NOTES
+
+2024-09-24
+	- rescale environment, too big currently
+	- fix door between zone 1 and 2
+	-
